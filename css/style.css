@@ -10,6 +10,7 @@
   --ink: #0f0e0c;
   --paper: #f5f2eb;
   --accent: #c94a1e;
+  --link: #0f0e0c;
   --muted: #7a7569;
   --border: #ddd9cf;
   --card-bg: #fff;
@@ -21,6 +22,7 @@
     --ink: #f0ede5;
     --paper: #121110;
     --accent: #e05c2a;
+    --link: #f0ede5;
     --muted: #8f8a7f;
     --border: #2a2925;
     --card-bg: #1a1918;
