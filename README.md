@@ -1,2 +1,1 @@
-# portfolio
-My portfolio 
+# Ada Linn Taule - Portfolio
